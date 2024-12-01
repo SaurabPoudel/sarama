@@ -1,5 +1,4 @@
 
-# Learning Kafka basics with Golang 
 
  Simple implementation of Kafka producer and consumer in Go.
 
