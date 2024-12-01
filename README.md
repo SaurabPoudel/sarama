@@ -1,7 +1,7 @@
 
 # Learning Kafka basics with Golang 
 
-This is a simple project to implement Kafka producer and consumer in Go.
+ Simple implementation of Kafka producer and consumer in Go.
 
 ## What is Kafka?
 Kafka is a distributed event streaming platform. It is used for handling real-time data streaming, message queues, publishing/subscribing, and much more.
